@@ -40,7 +40,7 @@
         "GamepadReporter.cpp",
         "GamepadReporter.h",
         "main.ts",
-        "_locales/zh/pxt-microbit-blehid-strings.json"
+        "_locales/zh/microbit-pxt-blehid-strings.json"
     ],
     "testFiles": [
         "test.ts"
