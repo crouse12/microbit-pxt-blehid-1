@@ -39,7 +39,8 @@
         "gamepad.cpp",
         "GamepadReporter.cpp",
         "GamepadReporter.h",
-        "main.ts"
+        "main.ts",
+        "_locales/zh-tw/pxt-microbitr-blehid-strings.json"
     ],
     "testFiles": [
         "test.ts"
