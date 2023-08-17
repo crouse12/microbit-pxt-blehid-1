@@ -56,7 +56,7 @@ namespace gamepad {
     //% blockId="dpad_conv" block="D-Pad $direction"
     //% direction.defl=GameDirection.none
     //% weight=20
-    export function dpad(direction: GameDirection): number {
+    export function _dpad(direction: GameDirection): number {
         if (direction < GameDirection.up || direction > GameDirection.upLeft)
             return 0
         return direction
@@ -66,7 +66,7 @@ namespace gamepad {
     //% active.defl=true
     //% button.defl=GameButton.none
     //% weight=20
-    export function buttons(button: GameButton, active: boolean) : number {
+    export function _buttons(button: GameButton, active: boolean) : number {
         //let active = true
         if(button<GameButton.A || button>GameButton.rightStick)
             return 0
