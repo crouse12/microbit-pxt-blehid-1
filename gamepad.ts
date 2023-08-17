@@ -54,7 +54,7 @@ namespace gamepad {
 
 
     //% blockId="dpad_conv" block="D-Pad $direction"
-    //% direction.defl=GameDirection.none
+    //% direction.defl=GameDirection.noDirection
     //% weight=20
     export function _dpad(direction: GameDirection): number {
         if (direction < GameDirection.up || direction > GameDirection.upLeft)
