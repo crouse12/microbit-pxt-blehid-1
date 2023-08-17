@@ -15,6 +15,15 @@
     "mouse.middleClick|block": "按下滑鼠左鍵",
     "mouse.scroll|block": "轉動滑鼠滾輪 $scroll",
     "mouse.isEnabled|block": "滑鼠是否可以控制",
-    "mouse.setStatusChangeHandler|block": "滑鼠狀態改變時"
+    "mouse.setStatusChangeHandler|block": "滑鼠狀態改變時",
+    "absmouse|block": "滑鼠",
+    "absmouse.startMouseService|block": "啟動藍芽媒體服務",
+    "absmouse.movexy|block": "移動滑鼠游標到 | x: $x| y: $y",
+    "absmouse.rightClick|block": "按下滑鼠右鍵",
+    "absmouse.click|block": "按下滑鼠左鍵",
+    "absmouse.middleClick|block": "按下滑鼠左鍵",
+    "absmouse.scroll|block": "轉動滑鼠滾輪 $scroll",
+    "absmouse.isEnabled|block": "滑鼠是否可以控制",
+    "absmouse.setStatusChangeHandler|block": "滑鼠狀態改變時"
     
 }
