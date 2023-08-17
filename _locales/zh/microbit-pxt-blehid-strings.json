@@ -7,5 +7,9 @@
     "keyboard.rawScancode|block": "鍵盤掃描碼 | %code",
     "keyboard.setStatusChangeHandler|block": "鍵盤狀態改變時",
     "keyboard.isEnabled|block": "鍵盤是否可以控制",
-    "Mouse|block": "滑鼠"
+    "mouse|block": "滑鼠",
+    "mouse.startMouseService|block": "啟動藍芽媒體服務",
+    "mouse.movexy|block": "移動滑鼠游標到 | x: $x| y: $y",
+    "mouse.rightClick|block": "按下滑鼠右鍵",
+    "mouse.leftClick|block": "按下滑鼠左鍵"
 }
