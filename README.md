@@ -1,5 +1,5 @@
 # blehid
-
+中文化：蔡佳倫
 ```package
 blehid=github:bsiever/microbit-pxt-blehid
 ```
