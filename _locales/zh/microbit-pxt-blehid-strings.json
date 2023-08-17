@@ -24,6 +24,8 @@
     "absmouse.middleClick|block": "按下絕對滑鼠左鍵",
     "absmouse.scroll|block": "轉動絕對滑鼠滾輪 $scroll",
     "absmouse.isEnabled|block": "絕對滑鼠是否可以控制",
-    "absmouse.setStatusChangeHandler|block": "絕對滑鼠狀態改變時"
+    "absmouse.setStatusChangeHandler|block": "絕對滑鼠狀態改變時",
+    "gamepad|block": "遊戲搖桿",
+    "gamepad.startGamepadService|block": "啟動藍芽搖桿服務"
     
 }
