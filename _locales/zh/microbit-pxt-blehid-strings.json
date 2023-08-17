@@ -26,6 +26,12 @@
     "absmouse.isEnabled|block": "絕對滑鼠是否可以控制",
     "absmouse.setStatusChangeHandler|block": "絕對滑鼠狀態改變時",
     "gamepad|block": "遊戲搖桿",
-    "gamepad.startGamepadService|block": "啟動藍芽搖桿服務"
+    "gamepad.startGamepadService|block": "啟動藍芽搖桿服務",
+    "gamepad.isEnabled|block": "藍芽搖桿是否可以控制",
+    "gamepad.setStatusChangeHandler|block": "藍芽搖桿狀態改變時",
+    "media|block": "媒體",
+    "media.startMediaService|block": "啟動藍芽媒體服務",
+    "media.isEnabled|block": "藍芽媒體是否可以控制",
+    "media.setStatusChangeHandler|block": "藍芽媒體狀態改變時"
     
 }
