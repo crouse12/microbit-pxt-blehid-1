@@ -1,5 +1,11 @@
 {
     "keyboard|block": "鍵盤",
     "keyboard.sendString|block": "傳送按鈕 | $keys",
-    "keyboard.startKeyboardService|block": "啟動藍芽鍵盤服務"
+    "keyboard.startKeyboardService|block": "啟動藍芽鍵盤服務",
+    "keyboard.sendSimultaneousKeys|block": "同時傳送按鈕 $keys || 按住 $hold",
+    "keyboard.releaseKeys|block": "釋放按鈕",
+    "keyboard.rawScancode|block": "鍵盤掃描碼 | %code",
+    "keyboard.setStatusChangeHandler|block": "鍵盤狀態改變時",
+    "keyboard.isEnabled|block": "鍵盤是否可以控制",
+    "Mouse|block": "滑鼠"
 }
