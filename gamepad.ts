@@ -20,7 +20,7 @@ enum GameButton {
 
 enum GameDirection {
     //% block="no direction"
-    noDirection = 0,
+    none = 0,
     up = 1,
     //% block="up right"
     upRight = 2,
@@ -54,7 +54,7 @@ namespace gamepad {
 
 
     //% blockId="dpad_conv" block="D-Pad $direction"
-    //% direction.defl=GameDirection.noDirection
+    //% direction.defl=GameDirection.none
     //% weight=20
     export function _dpad(direction: GameDirection): number {
         if (direction < GameDirection.up || direction > GameDirection.upLeft)
