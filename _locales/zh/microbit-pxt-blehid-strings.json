@@ -26,7 +26,7 @@
     "absmouse.scroll|block": "轉動絕對滑鼠滾輪 $scroll",
     "absmouse.isEnabled|block": "絕對滑鼠是否可以控制",
     "absmouse.setStatusChangeHandler|block": "絕對滑鼠狀態改變時",
-    "absmouse.send|block": "絕對滑鼠移動控制|x改變 $x|y改變$y|左鍵按下 $left| 中鍵按下 $middle|右鍵按下 $right|轉動滑鼠滾輪 $scroll|按住按鈕 $hold",
+    "absmouse.send|block": "絕對滑鼠移動控制|x改變 $x|y改變$y|左鍵按下 $left| 中鍵按下 $middle|右鍵按下 $right|按住按鈕 $hold",
     "gamepad|block": "遊戲搖桿",
     "gamepad.startGamepadService|block": "啟動藍芽搖桿服務",
     "gamepad.isEnabled|block": "藍芽搖桿是否可以控制",
