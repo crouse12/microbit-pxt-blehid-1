@@ -1,7 +1,7 @@
 # blehid
 中文化：蔡佳倫
 ```package
-blehid=github:bsiever/microbit-pxt-blehid
+blehid=github:crouse12/pxt-microbit-blehid
 ```
 
 This extension allows the micro:bit V2 to act like a [Human Interface Devices](https://en.wikipedia.org/wiki/Human_interface_device) (HID) over Bluetooth.  It currently supports services for [Keyboard](#keyboard), [Mouse](#mouse), [Media Keys](#media-keys) (play, pause, volume up, etc.), a [Gamepad](#gamepad), and an [Absolute Mouse](#absolute-mouse) (puts the mouse at a specific position on the screen).
