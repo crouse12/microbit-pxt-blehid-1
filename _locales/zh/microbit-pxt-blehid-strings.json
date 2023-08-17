@@ -8,7 +8,7 @@
     "keyboard.setStatusChangeHandler|block": "鍵盤狀態改變時",
     "keyboard.isEnabled|block": "鍵盤是否可以控制",
     "mouse|block": "滑鼠",
-    "mouse.startMouseService|block": "啟動藍芽媒體服務",
+    "mouse.startMouseService|block": "啟動藍芽滑鼠服務",
     "mouse.movexy|block": "移動滑鼠游標到 | x: $x| y: $y",
     "mouse.rightClick|block": "按下滑鼠右鍵",
     "mouse.click|block": "按下滑鼠左鍵",
@@ -16,14 +16,14 @@
     "mouse.scroll|block": "轉動滑鼠滾輪 $scroll",
     "mouse.isEnabled|block": "滑鼠是否可以控制",
     "mouse.setStatusChangeHandler|block": "滑鼠狀態改變時",
-    "absmouse|block": "滑鼠",
-    "absmouse.startMouseService|block": "啟動藍芽媒體服務",
-    "absmouse.movexy|block": "移動滑鼠游標到 | x: $x| y: $y",
-    "absmouse.rightClick|block": "按下滑鼠右鍵",
-    "absmouse.click|block": "按下滑鼠左鍵",
-    "absmouse.middleClick|block": "按下滑鼠左鍵",
-    "absmouse.scroll|block": "轉動滑鼠滾輪 $scroll",
-    "absmouse.isEnabled|block": "滑鼠是否可以控制",
-    "absmouse.setStatusChangeHandler|block": "滑鼠狀態改變時"
+    "absmouse|block": "絕對滑鼠",
+    "absmouse.startAbsoluteMouseService|block": "啟動藍芽絕對滑鼠服務",
+    "absmouse.movexy|block": "移動絕對滑鼠游標到 | x: $x| y: $y",
+    "absmouse.rightClick|block": "按下絕對滑鼠右鍵",
+    "absmouse.click|block": "按下絕對滑鼠左鍵",
+    "absmouse.middleClick|block": "按下絕對滑鼠左鍵",
+    "absmouse.scroll|block": "轉動絕對滑鼠滾輪 $scroll",
+    "absmouse.isEnabled|block": "絕對滑鼠是否可以控制",
+    "absmouse.setStatusChangeHandler|block": "絕對滑鼠狀態改變時"
     
 }
